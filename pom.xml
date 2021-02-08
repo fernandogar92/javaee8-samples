@@ -5,6 +5,8 @@
     
     Hola world
     
+	Adios Mundo
+	
     <groupId>org.javaee8</groupId>
     <artifactId>samples-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
